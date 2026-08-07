@@ -1,2 +1,2 @@
 # Git Lab
-2nd line
+Collaborator 1 changed this line
