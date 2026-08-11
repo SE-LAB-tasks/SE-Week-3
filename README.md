@@ -1,2 +1,2 @@
 # Git Lab
-2nd line
+master changed 2nd line
