@@ -1,2 +1,2 @@
 Team Project
-STATUS: draft
+STATUS: released by teammate
